@@ -28,11 +28,20 @@ mydata <- na.omit(mydata)
 <!--In this section you explain what you are trying to show.  Where did the data come from?  What is the research or other question you are trying to answer?.  If you skimp in this section expect to be marked down in your grade. Paint a picture of the project a couple of paragraphs is expected!-->
 
 Is attitude toward capitol punishment (cappun) independent of race (race)?
-If not, then whose view differs from whom??
+If not, then whose view differs from whom??  
+
+
+$H_0$: There is no attitude toward capitol punishment (cappun) independent of race (race).  
+$H_A$: There is a difference in attitude toward capitol punishment (cappun) independent of race (race).   
+
 
 # Methods
 
-<!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
+<!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->    
+
+Cat_Cat helper file will be used as both variables are categorical.    
+
+
 
 # Results
 
