@@ -51,6 +51,16 @@ Cat_Cat helper file will be used as both variables are categorical.
 
 ### Graphical Descriptive Results
 
+```{r}
+barchartGC(~race + cappun,data=mydata)
+barchartGC(~race + cappun,data=mydata, type="percent")
+
+```
+
+
+Among those who favor cappun are predominately white. Percentage wise there are more blacks that oppose cappun rather than are in favor of. Also noted are that other races mostly favor cappun than oppose.   
+
+
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question. Bottom line is to explain the features of the graph that are relevant to conforming or departing to what is expected by your null hypothesis !-->
 
 
