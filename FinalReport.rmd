@@ -167,3 +167,5 @@ Based on the Fisher Test the p-value is 0.00001741 meaning there is a significan
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In the small data set there is a difference in attitude based on race. The only difference is between blacks and whites.  
