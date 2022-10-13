@@ -175,4 +175,10 @@ fisherXY(mydata$race,mydata$cappun)
 
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the George Town videos collection.!-->
+
+
+There is a significant difference in attitude for capitol punishment based on race. In this larger data set there is a difference in attitude for capitol punishment in all three races. In the smaller data set there was a significant difference in attitude between whites and blacks, there is not enough data to determine if there is a significant differences between other races.   
+
+
+
