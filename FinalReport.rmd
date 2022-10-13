@@ -156,12 +156,14 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 
 ```
 ```{r}
-fisherXY(davisdata$Sex,davisdata$Seat)
+fisherXY(mydata$cappun,mydata$race)
 ```
 
+The p-value is 0.0001 and reject the null hypothesis meaning there is a significant difference in attitude toward capitol punishment based on race. 
 
+Based on the Fisher Test the p-value is 0.00001741 meaning there is a significant difference in attitude toward capitol punishment between blacks and whites.  
 
 
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
